@@ -37,7 +37,7 @@ O usuário pode escolher cores, espessuras de traço, apagar o desenho e até sa
 
 --- 
 
-##🕹️ Como Jogar (ou neste caso, desenhar 😄)
+## 🕹️ Como Jogar (ou neste caso, desenhar 😄)
 
 1. Mova o mouse sobre a tela branca e pressione o botão esquerdo para começar a desenhar.
 2. Use o seletor de cor 🎨 para mudar a cor do traço.
@@ -66,6 +66,6 @@ O usuário pode escolher cores, espessuras de traço, apagar o desenho e até sa
 
 ## 👩‍💻 Autora
 
-- Desenvolvido com 💚 por Nicolly Jesus
--📍 São Paulo, SP
-- 💼 Foco em Desenvolvimento Web e Engenharia de Software
+1. Desenvolvido com 💚 por Nicolly Jesus
+2. 📍 São Paulo, SP
+3.  💼 Foco em Desenvolvimento Web e Engenharia de Software
