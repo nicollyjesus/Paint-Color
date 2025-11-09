@@ -5,7 +5,7 @@
 ## 🖌️ Descrição do Projeto
 
 O Draw é um projeto criado com o objetivo de tornar a arte de desenhar digitalmente acessível e divertida, utilizando HTML5 Canvas e JavaScript puro.
-Com uma interface simples e intuitiva, permite que qualquer pessoa — do iniciante ao artista experiente — explore sua criatividade de forma prática.
+Com uma interface simples e intuitiva, permite que qualquer pessoa (do iniciante ao artista experiente), explore sua criatividade de forma prática.
 
 O usuário pode escolher cores, espessuras de traço, apagar o desenho e até salvar sua arte com apenas um clique!
 
